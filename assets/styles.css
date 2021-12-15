@@ -1,0 +1,23 @@
+.flex-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60vw;
+}
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  text-align: left;
+  margin: 20px;
+  padding: 10px;
+}
+.line {
+  transform: rotate(45deg);
+  height: 1px;
+  width: 500px;
+  border: 2px solid rebeccapurple;
+}
