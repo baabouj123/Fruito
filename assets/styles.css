@@ -15,9 +15,3 @@
   margin: 20px;
   padding: 10px;
 }
-.line {
-  transform: rotate(45deg);
-  height: 1px;
-  width: 500px;
-  border: 2px solid rebeccapurple;
-}
